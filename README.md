@@ -1,5 +1,4 @@
 # Encriptador-ONE
-#challengeonecodificador2
 
 Las "llaves" de encriptación que utilizaremos son las siguientes:
 
