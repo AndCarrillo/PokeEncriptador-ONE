@@ -4,29 +4,33 @@
 
 Las "llaves" de encriptación que utilizaremos son las siguientes:
 
-La letra "e" es convertida para "enter"
-La letra "i" es convertida para "imes"
-La letra "a" es convertida para "ai"
-La letra "o" es convertida para "ober"
-La letra "u" es convertida para "ufat"
+- La letra "e" se convierte en "enter".
+- La letra "i" se convierte en "imes".
+- La letra "a" se convierte en "ai".
+- La letra "o" se convierte en "ober".
+- La letra "u" se convierte en "ufat".
 
-# Requisitos:
-- Debe funcionar con letras minúsculas
-- No deben ser utilizados letras con acentos ni caracteres especiales
-- Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
+## Requisitos
 
-Por ejemplo:
-"gato" => "gaitober"
-gaitober" => "gato"
+- Funciona con letras minúsculas.
+- No se deben usar letras con acentos ni caracteres especiales.
+- Es posible convertir una palabra a su versión encriptada y también devolver una palabra encriptada a su versión original.
 
-- La página debe tener campos para
-inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones.
-- El resultado debe ser mostrado en la pantalla.
+### Ejemplo:
 
-# Extras:
-- Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
+- "gato" => "gaitober"
+- "gaitober" => "gato"
 
-# Enlace GiHubPages:
+## Funcionalidades
+
+- La página incluye campos para la inserción del texto que será encriptado o desencriptado. El usuario puede escoger entre las dos opciones.
+- El resultado se muestra en la pantalla.
+
+## Extras
+
+- Botón para copiar el texto encriptado/desencriptado al portapapeles, similar a la funcionalidad de `Ctrl+C` o "copiar" del menú de las aplicaciones.
+
+## Enlace a GitHub Pages
 https://andcarrillo.github.io/PokeEncriptador-ONE/
 
 ![Preview](https://github.com/AndCarrillo/PokeEncriptador-ONE/blob/main/images/PokeGIF.gif)
