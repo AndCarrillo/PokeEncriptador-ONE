@@ -27,5 +27,5 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 # Enlace GiHubPages:
 https://andcarrillo.github.io/PokeEncriptador-ONE/
 
-[![Preview](https://via.placeholder.com/150)](https://andcarrillo.github.io/PokeEncriptador-ONE/)
+![Preview](https://github.com/AndCarrillo/PokeEncriptador-ONE/blob/main/images/PokeEncriptador.PNG)
 
