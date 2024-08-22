@@ -1,3 +1,5 @@
+![Banner](https://github.com/AndCarrillo/PokeEncriptador-ONE/blob/main/images/PokeBanner.PNG)
+
 # Encriptador-ONE
 
 Las "llaves" de encriptación que utilizaremos son las siguientes:
@@ -27,5 +29,5 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 # Enlace GiHubPages:
 https://andcarrillo.github.io/PokeEncriptador-ONE/
 
-![Preview](https://github.com/AndCarrillo/PokeEncriptador-ONE/blob/main/images/PokeEncriptador.PNG)
+![Preview](https://github.com/AndCarrillo/PokeEncriptador-ONE/blob/main/images/PokeGIF.gif)
 
