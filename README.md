@@ -35,3 +35,7 @@ https://andcarrillo.github.io/PokeEncriptador-ONE/
 
 ![Preview](https://github.com/AndCarrillo/PokeEncriptador-ONE/blob/main/images/PokeGIF.gif)
 
+## Insignia
+
+Esta es la insignia dada por ![Alura](https://www.aluracursos.com/)  al completar este Challenge
+![Badge](https://github.com/AndCarrillo/PokeEncriptador-ONE/blob/main/images/badge%20encriptador.png)
